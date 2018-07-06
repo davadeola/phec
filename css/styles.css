@@ -1,97 +1,76 @@
-.container-fluid{
-  padding:  0;
+body, html{
+  height: 100%;
+  margin: 0;
 }
-.banner{
 
+
+#welcome{
+  background-image: url('../images/divdesign.svg');
   background-size: cover;
   background-repeat: no-repeat;
-  background-attachment: fixed;
-  height: 100%;
-  padding: 5%;
+  padding-top: 15%;
+
+  padding-bottom: 25%;
+}
+#logo{
+margin-left: 39%;
+width: 22.5%;
 }
 
-.home{
-  background-image: url("../images/about.jpg");
+#illust{
+  background-image: url('../images/divdesign2.svg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding-top: 17.5%;
+  padding-bottom: 17.5%;
 }
-
-.flowers{
-  background-image: url("../images/flowers.jpeg");
-}
-.vegetables{
-  background-image: url("../images/vegetables.jpg");
-}
-.fruits{
-  background-image: url("../images/mangos.jpg")
-}
-
-.home img{
-  width: 25%;
-  height: 25%;
-  display: block;
-  margin-left: 35%;
-  margin-right: 25%;
-}
-
-
-.display-2{
+.common-text{
   color: white;
-  text-align: center;
-  margin: 5%;
-}
-
-.circle{
-  border-radius: 50%;
-  height: 250px;
-  width:250px;
-  padding-top: 25%;
-  margin-top: 15%;
-  background-color: #7CB342;
-}
-
-.navbar-nav{
-  margin-left: 25%;
-}
-
-.navbar-nav .nav-item{
-  margin-left:  10%;
-}
-.navbar-light .navbar-nav .nav-link{
   font-size: 20px;
-  color: white;
-}
-
-.circle h1{
-  color: white;
-  text-align: center;
-
-}
-
-.about{
-  padding: 5%;
-}
-
-.about p{
   text-align: center;
 }
 
-.about img{
+#footer{
+  background-color: #FA6300;
+  padding-top: 1.5%;
+}
+
+#illust img{
+  width: 25%;
   display: block;
-  margin-left: 25%;
-  margin-right: 25%;
-  margin-top: 5%;
-  width: 50%;
+  margin: 0 auto;
+  border-radius: 50%;
+  border: 5px solid white;
 }
 
-.display-1{
-  text-align: center;
+.text-col{
+  border-right: 5px solid white;
 }
 
-.bg-light{
-  background-color: #7CB342 !important;
+.img-certs{
+  width: 75%;
+}
+button{
+  background-color: #FA6300;
+  color: white;
 }
 
-.form{
-  padding-top: 5%;
-  padding-left: 10%;
-  padding-right: 10%;
+button:hover{
+  background-color: #FF9900;
+}
+.display-2{
+  color: #f84000;
+  margin: 2.5%;
+}
+
+#about{
+  padding: 2.5%;
+}
+
+#about img{
+  width: 100%;
+}
+
+#about p{
+  font-size: 20px;
 }
