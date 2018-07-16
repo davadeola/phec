@@ -40,8 +40,8 @@ var items = {
     ],
     white: [
       {
-        name: '',
-        image: '',
+        name: 'A one',
+        image: 'https://drive.google.com/open?id=1Q7eC2m7305DrWInqLLtajAVtdarwAsuD',
         description:'',
         type:''
       },{
@@ -55,6 +55,12 @@ var items = {
         description:'',
         type:''
       },{
+        name: '',
+        image: '',
+        description:'',
+        type:''
+      },
+      {
         name: '',
         image: '',
         description:'',
