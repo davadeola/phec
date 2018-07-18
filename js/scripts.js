@@ -42,27 +42,47 @@ var items = {
       {
         name: 'A one',
         image: 'https://drive.google.com/open?id=1Q7eC2m7305DrWInqLLtajAVtdarwAsuD',
-        description:'',
-        type:''
+        description:'Color: WHITE • Bud size: 6.5cm x 5.0cm • Length: 50cm to 80cm • Vase life: 20 Days',
+        type:'Extra Premium T-Hybrid'
       },{
-        name: '',
-        image: '',
-        description:'',
-        type:''
+        name: 'Akito',
+        image: 'https://drive.google.com/open?id=1HTXzkAdLL8X1bqiS-BuP2wFfcpLZf9-r',
+        description:'Color: WHITE • Bud size: 4.0cm x 3.0cm • Length: 40cm to 80cm • Vase life: 12 Days',
+        type:'Intermediate'
       },{
-        name: '',
-        image: '',
-        description:'',
-        type:''
+        name: 'ICE BREAKER ',
+        image: 'https://drive.google.com/open?id=10WFFessvIL-sulNyTTBx38Y7GVpd-vq0',
+        description:'Color: WHITE • Bud size: 6.0cm x 5.0cm • Length: 50cm to 80cm • Vase 17 Days',
+        type:'Extra Premium T-Hybrid'
       },{
-        name: '',
-        image: '',
-        description:'',
-        type:''
+        name: 'JOMILE',
+        image: 'https://drive.google.com/open?id=1UPIexJoW61X07VyijVgJ1LVGIcUdHR-u',
+        description:'Color: WHITE • Bud size: 4.0cm x 3.0cm • Length: 40cm to 80cm • Vase life: 15 Days',
+        type:'Intermediate'
       },
       {
-        name: '',
-        image: '',
+        name: 'Athena',
+        image: 'https://drive.google.com/open?id=1i53fgLpQLpH-UHLT_Zko91x6nLOtRqu9',
+        description:'Color: Cream; length 40-60 cm; Bud size 4.2×3 cm (Variant: 35-60 cm in length4×3.5 for the bud size)',
+        type:'Regular'
+      },{
+        name: 'KIWI',
+        image: 'https://drive.google.com/open?id=1JW909ljmvQt3WHPbggL9Rikw-4ri6YQE',
+        description:'Medium headed Rose, Color: Cream, Stem Length: 35-70cm, Vase life: 12 - 14 days.',
+        type:'Regular'
+      },{
+        name: 'ADMISSION',
+        image: 'https://drive.google.com/open?id=1VcOGnvKkDfQUuGVDQ4wxMNebXHz50PGG',
+        description:'Color: Cream, Stem Length: 40-60cm, Vase life: 11 days.',
+        type:'Standard Rose'
+      },{
+        name: 'MAGIC AVALANCHE',
+        image: 'https://drive.google.com/open?id=1PZdejn_-J8jvUbpVN5HRZbY8pWdJsSjo',
+        description:'Color: Peach, Stem Length: 40-70cm, Vase life: 11 days.',
+        type:'Premium Rose'
+      },{
+        name: 'Carema',
+        image: 'https://drive.google.com/open?id=1BtAYV2O9mTgZmxJIp13bw3_a-e9CIwIO',
         description:'',
         type:''
       },
