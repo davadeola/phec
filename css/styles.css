@@ -103,9 +103,14 @@ padding-top: 27.5%;
 
 .point{
   padding: 7.5%;
-  margin-bottom:5%;
+  margin-bottom:0.5%;
 }
 /*the menu bar css styles*/
+nav{
+  -webkit-box-shadow: 2.5px 2.5px 28px 0px rgba(0,0,0,0.75);
+  -moz-box-shadow: 2.5px 2.5px 28px 0px rgba(0,0,0,0.75);
+  box-shadow: 2.5px 2.5px 28px 0px rgba(0,0,0,0.75);
+}
 .navbar img{
   width: 25%;
 }
