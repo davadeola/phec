@@ -141,3 +141,14 @@ footer p{
 .nav p{
   color: black;
 }
+
+a.nav-item.nav-link{
+  color: #e4405f;
+  margin: 0 auto;
+}
+
+.nav-tabs .nav-link.active, .nav-tabs .nav-item.show .nav-link{
+  color: #495057;
+    background-color: #fff;
+    border-color: #dee2e6 #dee2e6 #e4405f;
+}
