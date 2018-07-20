@@ -65,7 +65,7 @@ a:hover{
 #welcome .row{
   background-color: inherit;
   margin-bottom: 3%;
-  margin-top: 7.5%;
+  margin-top: 5em;
 
 }
 
@@ -106,13 +106,13 @@ padding-top: 27.5%;
   margin-bottom:0.5%;
 }
 /*the menu bar css styles*/
-nav{
+nav .navbar{
   -webkit-box-shadow: 2.5px 2.5px 28px 0px rgba(0,0,0,0.75);
   -moz-box-shadow: 2.5px 2.5px 28px 0px rgba(0,0,0,0.75);
   box-shadow: 2.5px 2.5px 28px 0px rgba(0,0,0,0.75);
 }
-.navbar img{
-  width: 25%;
+img.navbar-brand{
+  width: 7.25rem;
 }
 
 .navbar-light .navbar-nav .nav-link{
@@ -132,4 +132,12 @@ nav{
 footer p{
   color: white;
   text-align: center;
+}
+
+.nav{
+  margin-top: 5em;
+}
+
+.nav p{
+  color: black;
 }
