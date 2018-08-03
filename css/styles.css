@@ -154,8 +154,12 @@ a.nav-item.nav-link{
     border-color: #dee2e6 #dee2e6 #e4405f;
 }
 
-/*card*/
+/*card and flower tab section*/
 .tab-content{
   padding: 2.5%;
   box-sizing: border-box;
+}
+
+.ico{
+  width: 1.75em;
 }
