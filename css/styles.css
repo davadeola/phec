@@ -39,7 +39,10 @@ button:hover{
 a{
   color: white;
   margin: 1.5%;
+    font-family: 'Poiret One', cursive;
   text-align: right;
+  font-style: normal;
+  font-weight: bolder;
 }
 
 a:hover{

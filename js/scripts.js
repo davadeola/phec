@@ -90,47 +90,47 @@ var items = {
     pink: [
       {
         name: 'SPLENDID CERISE ',
-        image: '',
+        image: '/QkSv',
         description:'Colour: Cerise • Bud size: 5.5cm x 5.0cm • Length: 50cm to 80cm • Vase life: 17 Days',
         type:'Extra Premium T-Hybrid'
       },{
         name: 'SWING',
-        image: '',
+        image: '/tkFN',
         description:'Colour: Pink • Bud size: 4.0cm x 3.0cm • Length: 40cm to 80cm • Vase life 12 Days',
         type:'Intermediate'
       },{
         name: 'CELEB ',
-        image: '',
+        image: '/1H2i',
         description:'Colour: Pink • Bud size: 6.0cm x 5.0cm • Length: 50cm to 80cm • Vase life: 20 Days',
         type:'Extra Premium T-Hybrid'
       },{
         name: 'DEEP WATER',
-        image: '',
+        image: '/bgSV',
         description:'Colour: Purple • Bud size: 6.0cm x 5.0cm • Length: 50cm to 80cm • Vase life: 20 Days (Variant: Premium Rose Bud size 5.2 x 4.1 cm, Length 50 to 70 cm)',
         type:'Extra Premium T-Hybrid'
       },{
         name: 'HIGH AND CANDY',
-        image: '',
+        image: '/RjDt',
         description:'Colour: Pink/White • Bud size: 5.5cm x 5.0cm • Length: 50cm to 80cm • Vase life: 14 Days',
         type:'Extra Premium T-Hybrid'
       },{
         name: 'HIGH AND TENDER ',
-        image: '',
+        image: '/yWGe',
         description:'Colour: PINK • Bud size: 7.5cm x 6.0cm • Length: 50cm to 80cm • Vase life: 15 Days',
         type:'Extra Premium T-Hybrid'
       },{
         name: 'AQUA ',
-        image: '',
+        image: '/7Fl7',
         description:'Colour: Pink • Bud size: 4.5cm x 4.0cm • Length: 50cm to 80cm • Vase life: 14 Days (Variant: Premium 40-60 cm length; Bud size 4.5 x 2.5 cm)',
         type:'T-Hybrid'
       },{
         name: 'MARINA',
-        image: '',
+        image: '/xpUf',
         description:'Colour: Cerise • Bud size: 4.5cm x 4.0cm • Length: 50cm to 80cm • Vase life: 15 Days',
         type:'T-Hybrid'
       },{
         name: 'REVIVAL',
-        image: '',
+        image: '/dcQy',
         description:'Colour: Pink • Bud size: 6.0cm x 5.0cm • Length: 50cm to 80cm • Vase life: 15 Days',
         type:'Premium T-Hybrid'
       },{
@@ -479,7 +479,7 @@ $(document).ready(function() {
 for (var colour in items.flowers) {
   if (items.flowers.hasOwnProperty(colour)) {
     items.flowers[colour].forEach(function(flower){
-        $("#nav-"+colour+" .card-columns").append(' <div class="card"><img class="card-img-top" src="http://gdurl.com' + flower.image + '" alt="' + flower.name + ' image"><div class="card-body"><h3 class="card-title">'+flower.name+'</h3><p class="card-text">'+flower.description+'</p><p class="card-text"><small class="text-muted">'+flower.type+'</small></p></div></div>');
+        $("#nav-"+colour+" .card-columns").append(' <div class="card"><img class="card-img-top" src="https://gdurl.com' + flower.image + '" alt="' + flower.name + ' image"><div class="card-body"><h3 class="card-title">'+flower.name.toUpperCase()+'</h3><p class="card-text">'+flower.description+'</p><p class="card-text"><small class="text-muted">'+flower.type+'</small></p></div></div>');
     })
   }
 }
