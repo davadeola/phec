@@ -3,37 +3,37 @@ var items = {
     orange: [
       {
         name: 'CONFIDENTIAL ',
-        image: '',
+        image: '/O9CF',
         description:'Colour: Orange • Bud size: 5.5cm x 5.0cm • Length: 50cm to 80cm • Vase life: 15 Days',
         type:'Extra Premium T-Hybrid'
       },{
         name: 'AIRFORCE ',
-        image: '',
+        image: '/3lPp',
         description:'Colour: Orange • Bud size: 6.0cm x 5.0cm • Length: 50cm to 80cm • Vase life: 20 Days',
         type:'Extra Premium T-Hybrid'
       },{
         name: 'MARIYO',
-        image: '',
+        image: '/519c',
         description:'Colour: Orange • Bud size: 4.0cm x 3.5cm • Length: 50cm to 80cm • Vase life: 15 Days (variants 4.5 x 3.5 bud size, 40 to 80 cm Length; 5 x 3 bud size, 40 to 70 cm Length; 4 x 3 bud size, 35 to 70 cm length)',
         type:'Premium T-Hybrid'
       },{
         name: 'TROPICAL AMAZON',
-        image: '',
+        image: '/L0y0',
         description:'Color: Orange • Bud size: 4.0cm x 3.0cm • Length: 40cm to 80cm • Vase life: 12 Days',
         type:'Intermediate'
       },{
         name: 'JULISCHKA',
-        image: '',
+        image: '/SadA',
         description:'Colour: Orange, Stem Length: 40-60cm, Bud Size: 5.0 x 3.8(cm), Vase life: 10 - 12 days.',
         type:'Premium Plus Rose'
       },{
         name: 'ORANGE CRUSH',
-        image: '',
+        image: '/8vMw',
         description:'Colour: Orange, Stem Length: 40-70cm, No. of Petals: 30 – 45, Vase life: 11 days.',
         type:'Standard Rose'
       },{
         name: 'DOWNTOWN',
-        image: '',
+        image: '/3IeHC',
         description:'Colour: Orange, Stem Length: 40-70cm, No. of Petals: 30 - 45, Vase life: 11 days.',
         type:'Premium Rose'
       }
@@ -41,48 +41,48 @@ var items = {
     white: [
       {
         name: 'A one',
-        image: '',
+        image: '/y-4N',
         description:'Color: WHITE • Bud size: 6.5cm x 5.0cm • Length: 50cm to 80cm • Vase life: 20 Days',
         type:'Extra Premium T-Hybrid'
       },{
         name: 'Akito',
-        image: '',
+        image: '/WAqA',
         description:'Color: WHITE • Bud size: 4.0cm x 3.0cm • Length: 40cm to 80cm • Vase life: 12 Days',
         type:'Intermediate'
       },{
         name: 'ICE BREAKER ',
-        image: '',
+        image: '/icgJ',
         description:'Color: WHITE • Bud size: 6.0cm x 5.0cm • Length: 50cm to 80cm • Vase 17 Days',
         type:'Extra Premium T-Hybrid'
       },{
         name: 'JOMILE',
-        image: '',
+        image: '/JbCI',
         description:'Color: WHITE • Bud size: 4.0cm x 3.0cm • Length: 40cm to 80cm • Vase life: 15 Days',
         type:'Intermediate'
       },
       {
         name: 'Athena',
-        image: '',
+        image: '/pmwr',
         description:'Color: Cream; length 40-60 cm; Bud size 4.2×3 cm (Variant: 35-60 cm in length4×3.5 for the bud size)',
         type:'Regular'
       },{
         name: 'KIWI',
-        image: '',
+        image: '/u05r',
         description:'Medium headed Rose, Color: Cream, Stem Length: 35-70cm, Vase life: 12 - 14 days.',
         type:'Regular'
       },{
         name: 'ADMISSION',
-        image: '',
+        image: '/aBMh',
         description:'Color: Cream, Stem Length: 40-60cm, Vase life: 11 days.',
         type:'Standard Rose'
       },{
         name: 'MAGIC AVALANCHE',
-        image: '',
+        image: '/iObS',
         description:'Color: Peach, Stem Length: 40-70cm, Vase life: 11 days.',
         type:'Premium Rose'
       },{
         name: 'Carema',
-        image: '',
+        image: '/oQam',
         description:'',
         type:''
       },
@@ -218,67 +218,67 @@ var items = {
     bicolour: [
       {
         name: 'CUBA LIBRE',
-        image: '',
+        image: '/lvri',
         description:'Color: BICOLOR • Bud size: 5.0cm x 4.0cm • Length: 50cm to 80cm • Vase life: 13 Days',
         type:'Premium T-Hybrid'
       },{
         name: 'FARFALLA ',
-        image: '',
+        image: '/zBKa',
         description:'Color: BICOLOR • Bud size: 4.0cm x 3.5cm • Length: 50cm to 80cm • Vase life: 15 Days',
         type:'Premium T-Hybrid'
       },{
         name: 'Inka',
-        image: '',
+        image: '/WoTB',
         description:'Color: BI COLOR • Bud size: 4.0cm x 3.0cm • Length: 40cm to 80cm • Vase life: 17 Days',
         type:'Intermediate'
       },{
         name: 'MARIE CLAIRE!',
-        image: '',
+        image: '/CtNB',
         description:'Color: Bi-Color Orange, Stem Length: 35-80cm, Bud Size: 4.5 x 3.5(cm), Vase life: 10 - 12 days.',
         type:'Special Premium'
       },{
         name: 'ESPANA',
-        image: '',
+        image: '/6qcr',
         description:'Colour: Bi-Colour, Stem Length: 50-70cm, Vase life: 14 days.',
         type:'Premium plus Rose'
       },{
         name: 'TAMARA',
-        image: '',
+        image: '/3f-k',
         description:'Colour: Bi-Colour, Stem Length: 40-60cm, Vase life: 12-14 days.',
         type:'Regular Rose'
       },{
         name: 'CATCH',
-        image: '',
+        image: '/6xxt',
         description:'Colour: Bi-color, Stem Length: 35-80cm, Bud Size 4×3.5cm',
         type:'Premium Rose'
       },{
         name: 'CANDLE LIGHT',
-        image: '',
+        image: '/Bn5g',
         description:'Colour: Golden yellow and melted butter , Stem Length 35-80 cm, Bud size:5×3.5 cm',
         type:'Premium rose'
       },{
         name: 'EYE CATCHER',
-        image: '',
+        image: '/LjgB',
         description:'Colour: Pink bi colour • Bud size: 6.0cm x 5.0cm • Length: 50cm to 80cm • Vase life: 17 Days',
         type:'Extra Premium T-Hybrid'
       },{
         name: 'LOVELY JEWEL ',
-        image: '',
+        image: '/CQNW',
         description:'Colour: Pink Bi-colour • Bud size: 4.0cm x 3.0cm • Length: 40cm to 80cm • Vase life: 17 Days',
         type:'Intermediate'
       },{
         name: 'NICOLETTA',
-        image: '',
+        image: '/VXoE',
         description:'Colour: Bi-Colour, Stem Length: 40-60cm, Bud size: 4.9 x 3.0 (cm).',
         type:'Premium plus rose'
       },{
         name: 'GLOW!',
-        image: '',
+        image: '/NSTv',
         description:'Colour: Bi-Colour, Stem Length: 35-80cm, Bud size: 5.0 x 4.0 cm',
         type:'Premium Plus Rose'
       },{
         name: 'H30',
-        image: '',
+        image: '/Xcu0',
         description:'',
         type:''
       },
@@ -286,47 +286,47 @@ var items = {
     red: [
       {
           name: 'FURIOSA',
-          image: '',
+          image: '/VOOI',
           description:'Colour: Red, Large headed, Stem Length: 40-70cm, Vase life: 11 days.',
           type:'Premium'
         }, {
           name: 'RED RIBBON',
-          image: '',
+          image: '/czyHR',
           description:'Colour: Red, Large Headed Rose, Stem Length: 40-80cm, Vase life: 14 days.',
           type:'Premium'
         }, {
           name: 'BINGO CERISE',
-          image: '',
+          image: '/WYHb',
           description: 'Colour: Cerise •Bud size: 4.5cm x 4.0cm •Length:50cm to 80cm •Vase life: 12 Days',
           type:'T-Hybrid'
         },{
           name:'RED CALYPSO',
-          image:'',
+          image:'/KLTQ',
           description:'Colour: Red • Bud size: 4.0cm x 3.0cm • Length: 40cm to 80cm • Vase life: 15 Days',
           type:'Intermediate'
         },{
           name:'UPPER CLASS',
-          image:'',
+          image:'/HdND',
           description:'Colour: Red • Bud size: 4.5cm x 4.0cm • Length: 50cm to 80cm • Vase life: 15 Days',
           type:'Premium T- Hybrid'
         },{
           name:'RED ONE',
-          image:'',
+          image:'/uCcJ',
           description:'Colour: Red • Bud size: 4.5cm x 4.0cm • Length: 50cm to 80cm • Vase life: 15 Days',
           type:'T-Hybrid'
         },{
           name:'MADAM RED',
-          image:'',
+          image:'/fdIA',
           description:'Colour: Red • Bud size: 5.5cm x 5.0cm • Length: 50cm to 80cm • Vase life: 15 Days',
           type:'Extra Premium T-Hybrid'
         },{
           name:'HOT BLOOD',
-          image:'',
+          image:'/wb2d',
           description:'Colour: Red • Bud size: 5.5cm x 5.0cm • Length: 50cm to 80cm • Vase life: 15 Days (can also find Bud Size 4.0 x 3.5 cm Length 40 to 70 cm as a Premium Rose)',
           type:'Extra Premium T-Hybrid'
         },{
           name:'BURGANDY',
-          image:'',
+          image:'/ujyh',
           description:'Colour: Red • Bud size: 5.0cm x 4.0cm • Length: 50cm to 80cm • Vase life: 20 Days',
           type:'Premium T-Hybrid'
         }
@@ -335,32 +335,32 @@ var items = {
     yellow: [
       {
         name: 'Radiance',
-        image: '',
+        image: '/xDZN',
         description:'',
         type:''
       },{
         name: 'INTENSE ',
-        image: '',
+        image: '/Vle6m',
         description:'Colour: Yellow • Bud size: 4.5cm x 4.0cm • Length: 50cm to 80cm • Vase life: 15 Days',
         type:'T-Hybrid'
       },{
         name: 'ROYAL SPHYNX',
-        image: '',
+        image: '/COcg',
         description:'Colour: Yellow • Bud size: 5.0cm x 4.0cm • Length: 50cm to 80cm • Vase life: 15 Days',
         type:'Premium T-Hybrid'
       },{
         name: 'SONRISA',
-        image: '',
+        image: '/9ruj',
         description:'Colour: Yellow • Bud size: 4.0cm x 3.0cm • Length: 40cm to 80cm • Vase life: 12 Days (Regular Rose: 3 x 2.5cm bud size; Length 35 to 50 cm)',
         type:'Intermediate'
       },{
         name: 'MOONWALK',
-        image: '',
+        image: '/hQTA',
         description:'Colour: Yellow, Stem Length: 35-60cm, Bud size: 4.5 x 3.8 cm, Vase life: 16 days.',
         type:'Premium'
       },{
         name: 'GOOD TIMES',
-        image: '',
+        image: '/sjiU',
         description:'Colour: Yellow, Bud Size 4.2 x 3 cm, Stem Length: 35-80cm, Vase life: 16 days.',
         type:'Premium'
       },
@@ -468,36 +468,24 @@ var items = {
         type:''
       },
     ],
-    
+
   },
 };
 
 console.log(JSON.stringify(items));
 
 $(document).ready(function() {
-  $.each(items.flowers, function(colour, type) {
+
+for (var colour in items.flowers) {
+  if (items.flowers.hasOwnProperty(colour)) {
+    items.flowers[colour].forEach(function(flower){
+        $("#nav-"+colour+" .card-columns").append(' <div class="card"><img class="card-img-top" src="http://gdurl.com' + flower.image + '" alt="' + flower.name + ' image"><div class="card-body"><h3 class="card-title">'+flower.name+'</h3><p class="card-text">'+flower.description+'</p><p class="card-text"><small class="text-muted">'+flower.type+'</small></p></div></div>');
+    })
+  }
+}
 
 
-    $.each(type, (key, items) => {
 
-      if (key == 'spray') {
-        items.forEach((item) => {
-          $("#" + colour + "spray").append('<div class="card p-2" style="width: 15.75rem; "> <img class="card-img-top" src="' + item.image + '" alt="' + item.name + ' image"><div class="card-body"><p class="card-text">' + item.name + '</p></div> </div>');
-        });
-      }
-      if (key == 'standard') {
-        items.forEach((item) => {
-          $("#" + colour + "standard").append('<div class="card p-2" style="width: 15.75rem;"> <img class="card-img-top" src="' + item.image + '" alt="' + item.name + ' image"><div class="card-body"><p class="card-text">' + item.name + '</p></div> </div>');
-        });
-      }
-    });
 
-  });
-  items.greens.forEach(function(item) {
-    $("#greens").append(' <div class="card" style="width: 18rem;"> <img class="card-img-top" src="' + item.image + '" alt="' + item.name + ' image"><div class="card-body"><p class="card-text">' + item.name + '</p></div> </div>');
-  });
 
-  items.herbs.forEach(function(item) {
-    $("#herbs").append(' <div class="card" style="width: 18rem;"> <img class="card-img-top" src="' + item.image + '" alt="phec images"><div class="card-body"><p class="card-text">' + item.name + '</p></div> </div>');
-  });
 });
