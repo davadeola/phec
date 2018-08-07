@@ -1,7 +1,7 @@
 body, html{
   height: 100%;
   margin: 0;
-  background-image: url('../images/rosesbg.jpg');
+  background-image: url('../images/flower3.jpg');
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
@@ -105,7 +105,7 @@ padding-top: 27.5%;
 
 .point{
   padding: 7.5%;
-  margin-bottom:0.5%;
+  margin-bottom:1.5%;
 }
 
 
@@ -154,7 +154,7 @@ a.nav-item.nav-link{
 .nav-tabs .nav-link.active, .nav-tabs .nav-item.show .nav-link{
   color: #495057;
     background-color: #fff;
-    border-color: #dee2e6 #dee2e6 #e4405f;
+    border-color: #e4405f #e4405f #e4405f;
 }
 
 /*card and flower tab section*/
@@ -165,4 +165,33 @@ a.nav-item.nav-link{
 
 .ico{
   width: 1.75em;
+}
+
+embed{
+  width: 75%;
+  height: 75%;
+  margin: 0 auto;
+  display: block;
+}
+
+#illust .col-md-6{
+
+
+}
+
+.showcase_img{
+  height: 100%;
+  position: relative;
+  box-sizing: border-box;
+  padding: 7.5%;
+  cursor: pointer;
+}
+.showcase_img img{
+  width: 100%;
+  opacity: 1;
+
+}
+
+.showcase_img img:hover{
+  opacity: .5;
 }

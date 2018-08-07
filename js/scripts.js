@@ -135,82 +135,82 @@ var items = {
         type:'Premium T-Hybrid'
       },{
         name: 'SODUKU ',
-        image: '',
+        image: '/FFmE',
         description:'Colour: Light Pink • Bud size: 4.5cm x 4.0cm • Length: 50cm to 80cm • Vase life: 15 Days',
         type:'Premium T-Hybrid'
       },{
         name: 'TAIGA',
-        image: '',
+        image: '/LWjh',
         description:'Colour: Pink, Stem Length: 40-70cm, Bud size of 4 × 2.5 cm, Vase life: 11 days.',
         type:'Regular Rose'
       },{
         name: 'TACAZZI+',
-        image: '',
+        image: '/vNpH',
         description:'Colour: Pink, Bud size 4.0×3.5 cm, Stem Length: 40-70cm, Vase life: 16 days',
         type:'Regular'
       },{
         name: 'BELLE ROSE',
-        image: '',
+        image: '/iUu2',
         description:'Colour: Pink, Stem Length: 35-80cm, 5.0×3.5 in bud size, Vase life: 16 days.',
         type:'Regular'
       },{
         name: 'FUCHSIANA',
-        image: '',
+        image: '/52La',
         description:'',
         type:'Regular Rose'
       },{
         name: 'DEKORA',
-        image: '',
+        image: '/DluQ',
         description:'Large Headed Rose, Colour: Pink, Stem Length: 40-70cm, Vase life: 16 days.',
         type:'Regular'
       },{
         name: 'LA BELLE',
-        image: '',
+        image: '/DSJd',
         description:'Large Headed Rose, Colour: Pink, Stem Length: 40-60cm, Vase life: 16 days.',
         type:'Regular'
       },{
         name: 'NEW ORLEANS',
-        image: '',
+        image: '/fWXf',
         description:'Colour: Lilac, Stem Length: 40-60cm, Vase life: 12-14 days.',
         type:'Regular rose'
       },{
         name: 'SORBET AVALANCHE',
-        image: '',
+        image: '/PJrS',
         description:'Colour: Light Pink, Stem Length: 40-70cm, Vase life: 12-14 days.',
         type:'Regular rose'
       },{
         name: 'ROSANA',
-        image: '',
+        image: '/T2Iy2',
         description:'Colour: Purple, Stem Length: 40-60cm, Vase life: 12-14 days.',
         type:'Regular rose'
       },{
         name: 'NIGHTINGALE',
-        image: '',
+        image: '/aKz7',
         description:'Colour: Lilac-light Purple, Stem Length: 40-60cm, Vase life: 14 days.',
         type:'Premium Plus Rose'
       },{
         name: 'PRIMA BALLERINA',
-        image: '',
+        image: '/mkZAR',
         description:'Colour: Very Light Pink, 35-50 cm stem length, and a bud size of 3.5×3.',
         type:'Premium rose'
       },{
         name: 'BOOGY',
-        image: '',
+        image: '/arwZ',
         description:'',
         type:''
       },{
         name: 'WILD THING',
-        image: '',
+        image: '/gUEm',
         description:'',
         type:''
       },{
         name: 'UPPER IMPACT',
-        image: '',
+        image: '/ApzQ',
         description:'',
         type:''
       },{
         name: 'MAYFAIR!',
-        image: '',
+        image: '/lXPp',
         description:'Color: Peach, Stem Length: 40-70cm, Vase life: 12-14 days.',
         type:'Regular Rose'
       },
@@ -368,106 +368,135 @@ var items = {
     spray:[
       {
         name: 'SONORA',
-        image: '',
+        image: '/3meG',
         description:'Colour: Orange, Stem Length: 40-80cm, Vase life: 14 days.',
         type:''
       },{
         name: 'BABE',
-        image: '',
+        image: '/eP3T',
         description:'Colour: Orange, Stem Length: 40-70cm, Vase life: 10-12 days.',
         type:''
       },{
         name: 'MIRABEL',
-        image: '',
+        image: '/BG4Tp',
         description:'Colour: Red, Stem Length: 40-70cm, Vase life: 10-12 days.',
         type:''
       },{
         name: 'RUBICON',
-        image: '',
+        image: '/kNpw',
         description:'Colour: Red , Stem Length: 40-70cm, Vase life: 10-12 days.',
         type:''
       },{
         name: 'HALEY',
-        image: '',
+        image: '/ef6F',
         description:'Colour: Red, Stem Length: 40-70cm, Vase life: 10-12 days.',
         type:''
       },{
         name: 'LIANNE',
-        image: '',
+        image: '/ckI8',
         description:'Color: Cerise • Length: 50cm to 80cm • Vase life: 15 Days',
         type:''
       },{
         name: 'NATHALIE',
-        image: '',
+        image: '/yMpxW',
         description:'Colour: Pink, Stem Length: 40-70cm, Vase life: 10-12 days.',
         type:''
       },{
         name: 'DINARA',
-        image: '',
+        image: '/Vu9O',
         description:'Colour: Light-Pink, Stem Length: 40-80cm, Vase life: 10-12 days.',
         type:''
       },{
         name: 'SWEET SARA',
-        image: '',
+        image: '/ijbz',
         description:'Color: Cream White • Length: 50cm to 80cm • Vase life 12 Days',
         type:''
       },{
         name: 'YELLOW BABE',
-        image: '',
+        image: '/9X2u',
         description:'Colour: Yellow , Stem Length: 50-70cm, Vase life: 10-12 days.',
         type:''
       },{
         name: 'MARISA',
-        image: '',
+        image: '/Nj2k',
         description:'Colour: Yellow , Stem Length: 40-70cm, Vase life: 10-12 days.',
         type:''
       },{
         name: 'ABEBA',
-        image: '',
+        image: '/R5YG',
         description:'Color: Orange • Length: 50cm to 80cm • Vase Life: 12 Days',
         type:''
       },{
         name: 'SALINERO',
-        image: '',
+        image: '/9HxI',
         description:'Colour: White, Stem Length: 40-70cm, Vase life: 10-12 days.',
         type:''
       },{
         name: 'SNOWFLAKES',
-        image: '',
+        image: '/BRwl',
         description:'Color: White • Length: 50cm to 80cm • Vase life: 17 Days',
         type:''
       },{
         name: 'FIREWORKS',
-        image: '',
+        image: '/CcUG',
         description:'Color: BI COLOR • Length: 50cm to 80cm • Vase life: 15 Days',
         type:''
       },{
         name: 'FIREFLASH',
-        image: '',
+        image: '/HpvD',
         description:'Color: Bi-color • Length: 50cm to 80cm • Vase life: 12 Days',
         type:''
       },{
         name: 'PINK FLASH',
-        image: '',
+        image: '/SKRU',
         description:'Color: Pink Bi-Color • Length: 50cm to 80cm • Vase Life: 15 Days',
         type:''
       },{
         name: 'REFLEX',
-        image: '',
+        image: '/Hsmu',
         description:'Colour: Pink Bi-Color, Stem Length: 40-70cm, Vase life: 12-14 days.',
         type:''
       },{
         name: 'FLASH NIGHT',
-        image: '',
+        image: '/UjmA',
         description:'Colour: Bi-Colour Red White, Stem Length: 40-70cm, Vase life: 10-12 days.',
         type:''
       },{
         name: 'SUMMER DANCE',
-        image: '',
+        image: '/frlf',
         description:'Colour: Pink Bicolor , Stem Length: 50-70cm, Vase life: 12-14 days.',
         type:''
       },
     ],
+    others:[
+      {
+        name: 'ASTROEMERIAS',
+        image: '/Jhur',
+        description:'',
+        type:''
+      },
+      {
+        name: 'CALLA LILLIES',
+        image: '/KnHo',
+        description:'',
+        type:''
+      },{
+        name: 'CARNATIONS',
+        image: '/Dt56m',
+        description:'',
+        type:''
+      },{
+        name: 'GYPSOPHILA',
+        image: '/DgPa',
+        description:'',
+        type:''
+      },{
+        name: 'LIMONIUMS',
+        image: '/h3_x',
+        description:'',
+        type:''
+      },
+    ]
 
   },
 };
@@ -479,7 +508,7 @@ $(document).ready(function() {
 for (var colour in items.flowers) {
   if (items.flowers.hasOwnProperty(colour)) {
     items.flowers[colour].forEach(function(flower){
-        $("#nav-"+colour+" .card-columns").append(' <div class="card"><img class="card-img-top" src="https://gdurl.com' + flower.image + '" alt="' + flower.name + ' image"><div class="card-body"><h3 class="card-title">'+flower.name.toUpperCase()+'</h3><p class="card-text">'+flower.description+'</p><p class="card-text"><small class="text-muted">'+flower.type+'</small></p></div></div>');
+        $("#nav-"+colour+" .card-columns").append(' <div class="card" id="'+flower.name+'"><img class="card-img-top" src="https://gdurl.com' + flower.image + '" alt="' + flower.name + ' image"><div class="card-body"><h3 class="card-title">'+flower.name.toUpperCase()+'</h3><p class="card-text">'+flower.description+'</p><p class="card-text"><small class="text-muted">'+flower.type+'</small></p></div></div>');
     })
   }
 }
