@@ -11,6 +11,7 @@
   <link rel="stylesheet" href="css/styles.css">
   <link rel="stylesheet" href="css/ekko-lightbox.css">
   <link rel="stylesheet" href="css/animate.css">
+  <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
   <link href="https://fonts.googleapis.com/css?family=Poiret+One" rel="stylesheet">
 
 </head>
@@ -44,10 +45,11 @@
     </nav>
   </div>
 
-  <div class="container">
+  <div class="container showUp">
     <div class="row">
       <div class="col-md-12">
-        <nav>
+        <nav data-aos="fade-up"
+     data-aos-duration="1500">
           <div class="nav nav-tabs nav-fill" id="nav-tab" role="tablist">
             <a class="nav-item nav-link active" id="nav-home-tab" data-toggle="tab" href="#nav-orange" role="tab" aria-controls="nav-orange" aria-selected="true"><img src="images/orange.svg" alt="" class="ico"><div class="">Orange</div></a>
 
@@ -68,7 +70,8 @@
         </nav>
       </div>
     </div>
-    <div class="row">
+    <div class="row" data-aos="fade-up"
+ data-aos-duration="3000">
       <div class="tab-content" id="nav-tabContent">
         <div class="tab-pane fade show active" id="nav-orange" role="tabpanel" aria-labelledby="nav-home-tab">
           <div class="card-columns">
@@ -120,7 +123,8 @@
   <script src="js/jquery-3.2.1.js" charset="utf-8"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.3/umd/popper.min.js" integrity="sha384-vFJXuSJphROIrBnz7yo7oB41mKfc8JzQZiCq4NCceLEaO4IHwicKwpJf9c9IpFgh" crossorigin="anonymous"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/js/bootstrap.min.js" integrity="sha384-alpBpkh1PFOepccYVYDB4do5UnbKysX5WZXm3XxPqe5iKTfUKjNkCk9SaVuEZflJ" crossorigin="anonymous"></script>
-
+<script src="https://www.gstatic.com/firebasejs/live/3.0/firebase.js"></script>
+<script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
   <script src="js/scripts.js" charset="utf-8"></script>
 </body>
 
