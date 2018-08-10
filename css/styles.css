@@ -120,13 +120,14 @@ img.navbar-brand{
 .navbar-light .navbar-nav .nav-link{
   color: #e4405f;
   margin: 0 auto;
-
+  font-size: 1.25em;
 }
 
 .navbar-expand-lg .navbar-nav .nav-link{
   padding-right: 2.25rem;
     padding-left: 2.25rem;
 }
+
 
 .bg-light{
   background-color: white !important;
