@@ -46,7 +46,7 @@ $(document).ready(function() {
       $(".showWeb").css("display", "block").fadeIn("slow");
       $(".loading-screen").css("display", "none");
     }
-  },125);
+  },75);
 
 
 });
