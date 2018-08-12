@@ -41,12 +41,12 @@ $(document).ready(function() {
 
     counter++;
     c++;
-    if (counter == 101) {
+    if (counter == 12) {
       clearInterval(i);
       $(".showWeb").css("display", "block").fadeIn("slow");
       $(".loading-screen").css("display", "none");
     }
-  },75);
+  },1000);
 
 
 });
