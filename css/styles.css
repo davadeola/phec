@@ -31,7 +31,7 @@ body, html {
   position: absolute;
   top: 0;
   transition-delay: .5s;
-  overflow: hidden;  
+  overflow: hidden;
 }
 
 .loading-page .counter h1 {
@@ -47,12 +47,11 @@ body, html {
 
 .loading-page  h3 {
   position: fixed;
-  top: 75%;
+  top: 25%;
   left: 50%;
   transform: translate(-50%, -50%);
   font-size: 2.5em;
   color: #e4405f;
-  font-weight: bolder;
   margin-top: -10px;
   font-family: 'Poiret One', cursive;
   font-weight: 900;
