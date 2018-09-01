@@ -8,7 +8,6 @@ body, html {
   padding-top: 2em;
 }
 
-
 /*for loading screen*/
 
 .showWeb {
@@ -21,37 +20,32 @@ body, html {
 }
 
 .loading-page {
-  background-image: url('../images/flower3.jpg');
+  background-color: #e4405f;
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
-  width: 100%;
+  width: 100vw;
   height: 100vh;
   position: absolute;
   top: 0;
   transition-delay: .5s;
   overflow: hidden;
+  padding: 5%;
 }
 
-.loading-page .counter h1 {
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-  font-size: 250px;
-  color: #e4405f;
-  font-weight: bolder;
-  margin-top: -10px;
+.loading-page embed {
+  width: 22.5rem;
+  height: 22.5rem;
+  margin: 0 auto;
+  display: block;
 }
 
-.loading-page  h3 {
-  position: absolute;
-  top: 25%;
-  left: 50%;
-  transform: translate(-50%, -50%);
+.loading-page h3 {
+  color: white;
+  text-align: center;
   font-size: 25px;
-  color: #e4405f;
-  margin-top: -10px;
+  margin: 0 auto;
+  display: block;
   font-family: 'Poiret One', cursive;
   font-weight: 900;
 }
@@ -62,14 +56,12 @@ body, html {
   width: 10px;
 }
 
-
 /* Track */
 
 ::-webkit-scrollbar-track {
   background: #fff;
   box-shadow: inset 0 0 5px #e44;
 }
-
 
 /* Handle */
 
@@ -78,13 +70,11 @@ body, html {
   border-radius: 15px;
 }
 
-
 /* Handle on hover */
 
 ::-webkit-scrollbar-thumb:hover {
   background: #e44;
 }
-
 
 /*General styling*/
 
@@ -142,7 +132,6 @@ a:hover {
   margin-bottom: 1.5%;
 }
 
-
 /*the menu bar css styles*/
 
 nav .navbar {
@@ -183,7 +172,8 @@ a.nav-item.nav-link {
   color: #495057;
   background-color: #fff;
 }
-.nav-tabs{
+
+.nav-tabs {
   border-bottom: 1px solid #dee2e6;
   border-top: 1px solid #dee2e6;
   margin-top: .5%;
@@ -193,7 +183,6 @@ footer p {
   color: white;
   text-align: center;
 }
-
 
 /*card and flower tab section*/
 
@@ -206,13 +195,12 @@ footer p {
   width: 1.75em;
 }
 
-embed {
+#welcome embed {
   width: 75%;
   height: 75%;
   margin: 0 auto;
   display: block;
 }
-
 
 /*showcase images in home page styles*/
 
@@ -230,7 +218,6 @@ embed {
 .showcase img {
   width: 100%;
 }
-
 
 /*card and modal styles in flowers.html*/
 

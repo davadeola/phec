@@ -13,11 +13,7 @@ firebase.initializeApp(config);
 var ref = firebase.database().ref();
 var flowers;
 
-
-
 $(document).ready(function() {
-
-
 
   ref.once("value", function(snapshot) {
     flowers = snapshot.val();
@@ -34,19 +30,10 @@ $(document).ready(function() {
     console.log("Error is " + error.code);
   });
 
-  var counter =0;
-  var c=0;
-  var i = setInterval(function(){
-    $(".loading-page .counter h1").html(c);
+  setInterval(function() {
 
-    counter++;
-    c++;
-    if (counter == 12) {
-      clearInterval(i);
-      $(".showWeb").css("display", "block").fadeIn("slow");
-      $(".loading-screen").css("display", "none");
-    }
-  },950);
-
+    $(".showWeb").css("display", "block").fadeIn("slow");
+    $(".loading-screen").fadeOut(150);
+  }, 7500);
 
 });
