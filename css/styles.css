@@ -9,7 +9,23 @@ body, html {
 }
 
 /*for loading screen*/
+.sto{
+  stroke-dasharray:2000;
+  stroke-dashoffset:0;
+  -webkit-animation: dash 10s linear forwards;
+  animation: dash 10s linear forwards;
+}
 
+
+@-webkit-keyframes dash{
+  0%{
+    stroke-dashoffset:2000;
+
+  }
+  100%{
+    stroke-dashoffset:0;
+  }
+}
 .showWeb {
   display: none;
 }
