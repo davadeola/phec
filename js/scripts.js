@@ -33,7 +33,7 @@ $(document).ready(function() {
   setInterval(function() {
 
     $(".showWeb").css("display", "block").fadeIn("slow");
-    $(".loading-screen").fadeOut(150);
+    $(".loading-screen").fadeOut(100);
   }, 7500);
 
 });

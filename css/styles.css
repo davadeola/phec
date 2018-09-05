@@ -9,23 +9,7 @@ body, html {
 }
 
 /*for loading screen*/
-.sto{
-  stroke-dasharray:2000;
-  stroke-dashoffset:0;
-  -webkit-animation: dash 10s linear forwards;
-  animation: dash 10s linear forwards;
-}
 
-
-@-webkit-keyframes dash{
-  0%{
-    stroke-dashoffset:2000;
-
-  }
-  100%{
-    stroke-dashoffset:0;
-  }
-}
 .showWeb {
   display: none;
 }
@@ -47,11 +31,12 @@ body, html {
   transition-delay: .5s;
   overflow: hidden;
   padding: 5%;
+  padding-top: 7.5%;
 }
 
 .loading-page embed {
-  width: 22.5rem;
-  height: 22.5rem;
+  width: 22.5em;
+  height: 22.5em;
   margin: 0 auto;
   display: block;
 }
