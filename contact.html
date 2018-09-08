@@ -67,16 +67,36 @@
       <div class="row point">
         <div class="col-md-6">
           <img src="images/logo.png" alt="" class="img-1">
+          <div class="">
+            <p class="common-text">
+              <b>Phone number</b>: +254721778496,+254733778496, +254722516268,+254733516268</p>
+          </div>
         </div>
         <div class="col-md-6">
           <h1>Contact us...</h1>
-          <p class="common-text">
-            <b>Phone number</b>:
-            <br /> +254721778496
-            <br /> +254733778496
-            <br /> +254722516268
-            <br /> +254733516268
-          </p>
+          <div class="container">
+            <form action="mailer.php" class="form">
+              <div class="form-group">
+                <label for="fname">First Name</label>
+                <input type="text" id="fname" name="fname" placeholder="Your name.." class="form-control">
+              </div>
+              <div class="form-group">
+                <label for="email">Email</label>
+                <input type="email" id="mail" name="mail" placeholder="Your email" class="form-control">
+              </div>
+              <div class="form-group">
+                <label for="subject">Subject</label>
+                <input type="text" id="subject" name="subject" placeholder="Subject" class="form-control">
+              </div>
+              <div class="form-group">
+
+                <label for="message">Subject</label>
+                <textarea id="message" name="message" placeholder="Write something.." style="height:200px" class="form-control"></textarea>
+              </div>
+              <input type="submit" value="Submit" class="btn">
+
+            </form>
+          </div>
           <p class="common-text"><b>Email</b>: info@phec.co.ke</p>
         </div>
       </div>

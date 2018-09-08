@@ -60,15 +60,13 @@ body, html {
 /* Track */
 
 ::-webkit-scrollbar-track {
-  background: #fff;
-  box-shadow: inset 0 0 5px #e44;
+  background: inherit;
 }
 
 /* Handle */
 
 ::-webkit-scrollbar-thumb {
   background: #e4405f;
-  border-radius: 15px;
 }
 
 /* Handle on hover */
@@ -81,6 +79,8 @@ body, html {
 
 h1, p, h2, h3 {
   text-align: center;
+  animation-delay: 1s;
+  animation-duration: 2s;
 }
 
 h1 {
@@ -90,7 +90,6 @@ h1 {
 
 .row {
   background-color: white;
-  border-radius: 15px;
 }
 
 a {
@@ -106,6 +105,28 @@ a:hover {
   text-decoration: none;
 }
 
+#gotoflowers{
+  display: block;
+  text-align: center;
+
+}
+
+.btn{
+  background-color: #e4405f;
+  color: white;
+  padding: 1.75%;
+  font-size: 1.5em;
+  font-weight: normal;
+}
+
+.btn:hover{
+  background-color: #e44;
+  font-weight: bold;
+  -webkit-box-shadow: 2.5px 2.5px 28px 0px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: 2.5px 2.5px 28px 0px rgba(0, 0, 0, 0.75);
+  box-shadow: 2.5px 2.5px 28px 0px rgba(0, 0, 0, 0.75);
+  transition: all .5s;
+}
 #welcome .row {
   background-color: inherit;
   margin-bottom: 3.75em;
@@ -119,7 +140,7 @@ a:hover {
 }
 
 .common-text {
-  font-size: 17.5px;
+  font-size: 17.75px;
 }
 
 
@@ -129,10 +150,16 @@ a:hover {
   display: block;
   margin: 0 auto;
 }
+.point-1{
+  padding: 2.75%;
+}
 
+.point-2{
+  margin-bottom: 2.5%;
+}
 .point {
   padding: 7.5%;
-  margin-bottom: 1.5%;
+  margin-bottom: 2.5%;
 }
 
 /*the menu bar css styles*/
@@ -212,15 +239,42 @@ footer p {
   position: relative;
   box-sizing: border-box;
   padding: 5%;
+
 }
 
 .showcase_text {
+  position: absolute;
+  padding: 2.5em;
+  top: 0;
+  background-color: #e4405f;
+  height: 100%;
+  width: 100%;
   opacity: 0;
+  transform: scale(.75);
+  transition: all .375s;
+
+}
+
+.showcase_text:hover{
+  opacity: .8;
+  transform: scale(1);
+  transition: all .375s;
+}
+
+.showcase_text h3{
+  position: relative;
+  display: block;
+  font-weight: 300;
+  background-color: black;
+  color: white;
+  top: 75%;
+
 }
 
 .showcase img {
   width: 100%;
 }
+
 
 /*card and modal styles in flowers.html*/
 
